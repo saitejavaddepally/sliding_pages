@@ -1,0 +1,62 @@
+name: sliding_pages
+description: A new Flutter project.
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intro_slider: ^2.4.3
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - lib/assets/
+
+  fonts: 
+  - family: app_font
+    fonts: 
+      - asset: lib/assets/fonts/app_font.ttf
+  - family: content_font
+    fonts: 
+      - asset: lib/assets/fonts/content_font.ttf
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
